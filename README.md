@@ -1,6 +1,6 @@
 ### A little bit about me :rice_ball:
 
-I am a design technologist with a pragmatic and data-driven approach to building products. I work at the intersection of design and tech, building things through code, interaction design and information architecture.
+I am a design technologist with a pragmatic and data-driven approach to building products. I work at the intersection of design, tech and business, building things through code, design thinking and a touch of data science.
 
 I look forward to brewing coffee in the morning, and have a fascination with folding bicycles and mechanical keyboards.
 
@@ -9,6 +9,7 @@ I look forward to brewing coffee in the morning, and have a fascination with fol
 | :- | :- |
 | https://andrewthong.com | Personal website/blog |
 | https://jsfiddle.net/user/andrewthong/fiddles/ | More code snippets |
+| https://codepen.io/andrewthong | Codepen (slowly moving here) |
 | https://www.linkedin.com/in/andrewthong/ | LinkedIn profile |
 
 <!--
